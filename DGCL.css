@@ -1,0 +1,115 @@
+@font-face {
+        font-family: Cairo;
+        src:local("C:\Users\Nalmobarak\Downloads\Header-Footer-DGCL\fonts\Cairo-Regular.ttf");
+
+}
+
+body{
+
+    font-family: Cairo;
+}
+
+.typingBody{
+
+    padding: 4%;
+}
+
+.mainBg{
+    width: 100%;
+}
+
+hr{
+    margin: 40px 0 !important;
+    background-color: #E1C39F;
+
+}
+
+footer{
+    font-family: Cairo;
+    background-color: #C77249 ;
+    padding: 3rem 0;
+    font-size: 12px;
+}
+
+.copyRight{
+    font-family: Cairo;
+    color: #E1C39F;
+}
+
+.firstFooter{
+    padding: 1rem 2rem 0 2rem;
+    text-align: center;
+}
+
+.lastFooter{
+    text-align: center;
+}
+
+.emailLabel{
+    padding-left: 30px;
+font-family: Cairo;
+color: #f2e8dc;
+
+
+}
+
+.arrowicon{
+    width: 12%;
+}
+
+.BTNsubs{
+    font-family: Cairo;
+    padding-bottom: 10px;
+    padding-left: 0;
+    margin-left: 0;
+    border: unset;
+    border-bottom: 1px solid #f2e8dc;
+    background-color: #C77249;
+    font-family: Graphik;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #f8f2eb;
+    
+
+}
+
+.emailField{
+
+    padding-bottom: 10px;
+    padding-right: 0;
+    margin-right: 0;
+    border: unset;
+    border-bottom: 1px solid #f2e8dc;
+    background-color: #C77249;
+    width: 60%;
+    font-family: Graphik;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #f8f2eb;
+    
+}
+
+.emailField::placeholder{
+    color: #f8f2eb ;
+}
+
+
+.linksFooter a{
+    color: #E1C39F ;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.linksFooter a:hover{
+    color: #E1C39F ;
+    text-decoration: none;
+}
+
+input{
+
+    border: none;
+}
